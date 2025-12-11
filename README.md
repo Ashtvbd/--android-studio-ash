@@ -1,1 +1,1 @@
-# --android-studio-ash
+android-studio-ash
