@@ -20,7 +20,7 @@ android-studio-ash/ │ ├── index.html ├── getting-started.html ├�
 ## 🧑‍💻 Author
 
 **ASH TV Dev**  
-A project by Aashik  
+A project by Aashik Ador				 
 Focused on clean documentation, branding, and developer learning.
 
 ---
